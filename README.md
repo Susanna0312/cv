@@ -32,7 +32,9 @@ This transition reflects my commitment to growth, consistency, and long-term con
 
 # Projects
   1)Super store data analysis(https://github.com/Susanna0312/vrinda-super-store-data-analysis)
+  
   2)Pizza sales(https://github.com/Susanna0312/Pizza-sales)
+  
   3)Retail sales(https://github.com/Susanna0312/SQL_retail_sales_project1)
 # My CV👉:(
 
