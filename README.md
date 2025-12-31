@@ -36,5 +36,5 @@ This transition reflects my commitment to growth, consistency, and long-term con
   2)Pizza sales(https://github.com/Susanna0312/Pizza-sales)
   
   3)Retail sales(https://github.com/Susanna0312/SQL_retail_sales_project1)
-# My CV👉:(https://github.com/Susanna0312/CV/blob/main/Updated%20CV%202025.pdf)
+# My CV👉:([https://github.com/Susanna0312/CV/blob/main/Updated%20CV%202025.pdf](https://github.com/Susanna0312/CV-))
 
